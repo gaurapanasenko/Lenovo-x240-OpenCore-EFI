@@ -1397,7 +1397,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 amfi_get_out_of_my_way=1</string>
+				<string>-v keepsyms=1 debug=0x100 amfi_get_out_of_my_way=1 -no_compat_check</string>
 				<key>csr-active-config</key>
 				<data>/w8AAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1474,23 +1474,25 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02012102J9JG36JC</string>
+			<string>C02841404CDG0MCCB</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>RPtCW00w</data>
+			<data>
+			GPZDL75t
+			</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMacPro1,1</string>
+			<string>Macmini7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CGTZ0HX87</string>
+			<string>C02XJHYVG1J0</string>
 			<key>SystemUUID</key>
-			<string>D18FEE8A-9076-4DEE-BAA9-64CFF60F0459</string>
+			<string>328AD9D2-04CF-4B29-81DF-21EE9F9E22E3</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
